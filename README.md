@@ -95,3 +95,6 @@ npm start
 ## Testing
 
 Use Insomnia or a similar tool to test all API routes according to the acceptance criteria.
+## video
+- `Link to Video
+https://drive.google.com/file/d/12IIhKOgYmQU-3znhbCSGhTnVe5jMfAhb/view?usp=sharing
